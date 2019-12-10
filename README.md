@@ -1,4 +1,5 @@
-# ELViS
+![ELViS LOGO](elvis-logo.png)
+
 *European Loans and Visits System* 
 
 This repository is part of the [DiSSCo](https://dissco.eu) project (Distributed System of Scientific Collections is a 
@@ -24,3 +25,47 @@ Digital Objects Architecture (DSArch) and the provisional DiSSCo [Data Managemen
 (DMP), deliverable 6.6 in the ICEDIG project. 
 The DiSSCo architecture design is based on FAIR [Digital Objects](https://www.dona.net/digitalobjectarchitecture) 
 (FAIR DO) and the Digital Object Interface Protocol Specification (DOIPv2).
+
+## Components 
+ELViS will have the following components:
+
+- Registration for Virtual Access (VA)
+  - Digitisation on Demand (DoD) transactions
+- Registration for Transnational Access (TA)
+ - Loans transactions
+ - Visits transactions
+- Peer review transactions 
+- Interactive Dashboard view
+- Reporting views
+- Helpdesk
+- Profiles 
+  - Individuals
+  - Collections
+  - Institutions
+- Authentication and Authorisation Infrastructure (AAI)
+
+## Data Sources 
+
+<p align="center">
+  <img align=center src="elvis-data-sources.png" alt="ELViS data sources"></img>
+</p>
+
+
+
+Some of the data sources we are currently considered for ELViS 
+(the data flow, integration details are still under discussion): 
+
+- CETAF Passports
+- CETAF Collection registry
+- GrSciCol
+- GRID
+- ORCID
+- GBIF+CoL
+- GeoCase
+- Index Herbariorum
+- WikiData
+- GGBN
+- DataCite
+- Synthesys portal
+
+
