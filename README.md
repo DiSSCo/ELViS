@@ -2,8 +2,8 @@
 
 *European Loans and Visits System* 
 
-This repository is part of the [DiSSCo](https://dissco.eu) project (Distributed System of Scientific Collections is a 
-new world-class Research Infrastructure (RI) for natural science collections). ELViS will be a one-stop shop for researchers to provide access to specimens in natural science collections in Europe. 
+This repository is part of [DiSSCo](https://dissco.eu) (Distributed System of Scientific Collections), a 
+new world-class Research Infrastructure (RI) for natural science collections. ELViS will be a one-stop shop for researchers to provide access to specimens (visits, loans, digitisation on demand) in natural science collections in Europe. 
 
 ELViS is a deliverable of the [SYNTHESYS+](http://www.synthesys.info/) project, and will initially provide open access 
 to over 490 million specimens at 21 institutions in Europe through the SYNTHESYS+ Transnational Access (TA) and Virtual 
@@ -52,7 +52,7 @@ ELViS will have the following components:
 
 
 
-Some of the data sources we are currently considered for ELViS 
+Some of the data sources currently considered for ELViS 
 (the data flow, integration details are still under discussion): 
 
 - CETAF Passports
