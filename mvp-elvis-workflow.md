@@ -1,4 +1,11 @@
 
-This is a workflow document describing various steps for VA registration system. 
+This is a workflow document describing various steps for the VA registration system. 
 
-![workflow](MVP_ELViS_Workflow_v2.pdf)
+Roles: 
+
+* ELViS Admin 
+* Insitution Moderator 
+* VA coordinator 
+* Requester 
+
+![workflow](https://nbviewer.jupyter.org/github/DiSSCo/ELViS/blob/master/MVP_ELViS_Workflow_v2.pdf)
