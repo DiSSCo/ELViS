@@ -44,12 +44,15 @@ ELViS will have the following components:
   - Institutions
 - Authentication and Authorisation Infrastructure (AAI)
 
+<p align="center">
+ <img align=center src="high-level-aai-elvis.png" alt="ELViS AAI"></img>
+</p>
+
 ## Data Sources 
 
 <p align="center">
   <img align=center src="elvis-data-sources.png" alt="ELViS data sources"></img>
 </p>
-
 
 
 Some of the data sources currently considered for ELViS 
