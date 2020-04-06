@@ -1,21 +1,21 @@
-abbv	name	grid	cetaf	total_specimens_all_coll	dna_bank	seed_bank
-NHM	Natural History Museum London	grid.35937.3b	https://cetaf.org/london-natural-history-museum-0	74460377	no	no
-NHMW	Naturhistorisches Museum Wien	grid.425585.b	https://cetaf.org/natural-history-museum-vienna-0	28247450	yes	yes
-BGM	Agentschap Plantentuin Meise	grid.425433.7	https://cetaf.org/botanic-garden-meise-0	3800000	no 	yes
-RBINS	Royal Belgian Institute of Natural Sciences	grid.20478.39	https://cetaf.org/royal-belgian-institute-natural-sciences-0	30650000	no	no
-RMCA	Musee Royal de L'Afrique Centrale	grid.425938.1	http://www.africamuseum.be/	10260500	yes	yes
-NMP	Narodni Muzeum-National Museum Prague	grid.425401.6	https://cetaf.org/national-museum	86500	no	no
-MfN	Museum fur Naturkunde	grid.422371.1	https://cetaf.org/berlin-natural-history-museum-0	26351989	yes	no
-BGBM	Botanischer Garten und Botanisches Museum	grid.507655.4	https://cetaf.org/botanic-garden-and-botanical-museum-berlin	3800000	yes	yes
-SGN	Senckenberg Gesellschaft fur Naturforschung	grid.438154.f	https://cetaf.org/senckenberg-society-nature-research	39031864	yes	no
-SMNS	Staatliches Museum für Naturkunde Stuttgart	grid.437830.b	https://cetaf.org/stuttgart-state-museum-natural-history-1	11140200	yes	no
-UCPH/SNM	Statems Naturhistoriske Museum	grid.507616.3	https://cetaf.org/natural-history-museum-denmark-0	13900000	yes	yes
-CSIC (MNCN)	Museo Nacional de Ciencias Naturales	grid.420025.1	https://cetaf.org/national-museum-natural-sciences	8397660	yes	no
-CSIC (RJB)	Real Jardín Botánico de Madrid	grid.507618.d	https://cetaf.org/royal-botanic-garden-madrid	1285000	no	yes
-LUOMUS	Helsingin Yliopisto, Finnish Museum of Natural History	grid.507626.0	https://cetaf.org/finnish-museum-natural-history	13071800	yes	yes
-MNHN	Museum National d'Histoire Naturelle	grid.410350.3	https://cetaf.org/national-museum-natural-history-0	64747364	no	no
-HNHM	Magyar Természettudományi Múzeum	grid.424755.5	https://cetaf.org/hungarian-natural-history-museum-0	9922305	yes	yes
-HUJI	The National Natural History Collections, The Hebrew University of Jerusalem	grid.9619.7	https://cetaf.org/hebrew-university-jerusalem-national-natural-history-collections-0	6550000	yes	no
-NRM	Naturhistoriska Riksmuseet	grid.425591.e	https://cetaf.org/swedish-museum-natural-history-0	9734000	yes	no
-RBGE	Royal Botanic Garden Edinburgh	grid.426106.7	https://cetaf.org/royal-botanic-garden-edinburgh-0	3000000	no	no
-RBGK	Royal Botanic Gardens, Kew	grid.4903.e	https://cetaf.org/royal-botanic-gardens-kew	8878000	yes	yes
+abbv	name	https://www.grid.ac/institutes/grid	cetaf	total_specimens_all_coll	dna_bank	seed_bank
+NHM	Natural History Museum London	https://www.grid.ac/institutes/grid.35937.3b	https://cetaf.org/london-natural-history-museum-0	74460377	no	no
+NHMW	Naturhistorisches Museum Wien	https://www.grid.ac/institutes/grid.425585.b	https://cetaf.org/natural-history-museum-vienna-0	28247450	yes	yes
+BGM	Agentschap Plantentuin Meise	https://www.grid.ac/institutes/grid.425433.7	https://cetaf.org/botanic-garden-meise-0	3800000	no 	yes
+RBINS	Royal Belgian Institute of Natural Sciences	https://www.grid.ac/institutes/grid.20478.39	https://cetaf.org/royal-belgian-institute-natural-sciences-0	30650000	no	no
+RMCA	Musee Royal de L'Afrique Centrale	https://www.grid.ac/institutes/grid.425938.1	http://www.africamuseum.be/	10260500	yes	yes
+NMP	Narodni Muzeum-National Museum Prague	https://www.grid.ac/institutes/grid.425401.6	https://cetaf.org/national-museum	86500	no	no
+MfN	Museum fur Naturkunde	https://www.grid.ac/institutes/grid.422371.1	https://cetaf.org/berlin-natural-history-museum-0	26351989	yes	no
+BGBM	Botanischer Garten und Botanisches Museum	https://www.grid.ac/institutes/grid.507655.4	https://cetaf.org/botanic-garden-and-botanical-museum-berlin	3800000	yes	yes
+SGN	Senckenberg Gesellschaft fur Naturforschung	https://www.grid.ac/institutes/grid.438154.f	https://cetaf.org/senckenberg-society-nature-research	39031864	yes	no
+SMNS	Staatliches Museum für Naturkunde Stuttgart	https://www.grid.ac/institutes/grid.437830.b	https://cetaf.org/stuttgart-state-museum-natural-history-1	11140200	yes	no
+UCPH/SNM	Statems Naturhistoriske Museum	https://www.grid.ac/institutes/grid.507616.3	https://cetaf.org/natural-history-museum-denmark-0	13900000	yes	yes
+CSIC (MNCN)	Museo Nacional de Ciencias Naturales	https://www.grid.ac/institutes/grid.420025.1	https://cetaf.org/national-museum-natural-sciences	8397660	yes	no
+CSIC (RJB)	Real Jardín Botánico de Madrid	https://www.grid.ac/institutes/grid.507618.d	https://cetaf.org/royal-botanic-garden-madrid	1285000	no	yes
+LUOMUS	Helsingin Yliopisto, Finnish Museum of Natural History	https://www.grid.ac/institutes/grid.507626.0	https://cetaf.org/finnish-museum-natural-history	13071800	yes	yes
+MNHN	Museum National d'Histoire Naturelle	https://www.grid.ac/institutes/grid.410350.3	https://cetaf.org/national-museum-natural-history-0	64747364	no	no
+HNHM	Magyar Természettudományi Múzeum	https://www.grid.ac/institutes/grid.424755.5	https://cetaf.org/hungarian-natural-history-museum-0	9922305	yes	yes
+HUJI	The National Natural History Collections, The Hebrew University of Jerusalem	https://www.grid.ac/institutes/grid.9619.7	https://cetaf.org/hebrew-university-jerusalem-national-natural-history-collections-0	6550000	yes	no
+NRM	Naturhistoriska Riksmuseet	https://www.grid.ac/institutes/grid.425591.e	https://cetaf.org/swedish-museum-natural-history-0	9734000	yes	no
+RBGE	Royal Botanic Garden Edinburgh	https://www.grid.ac/institutes/grid.426106.7	https://cetaf.org/royal-botanic-garden-edinburgh-0	3000000	no	no
+RBGK	Royal Botanic Gardens, Kew	https://www.grid.ac/institutes/grid.4903.e	https://cetaf.org/royal-botanic-gardens-kew	8878000	yes	yes
