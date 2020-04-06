@@ -1,4 +1,4 @@
-abbv	name	https://www.grid.ac/institutes/grid	cetaf	total_specimens_all_coll	dna_bank	seed_bank
+abbv	name	grid	cetaf	total_specimens_all_coll	dna_bank	seed_bank
 NHM	Natural History Museum London	https://www.grid.ac/institutes/grid.35937.3b	https://cetaf.org/london-natural-history-museum-0	74460377	no	no
 NHMW	Naturhistorisches Museum Wien	https://www.grid.ac/institutes/grid.425585.b	https://cetaf.org/natural-history-museum-vienna-0	28247450	yes	yes
 BGM	Agentschap Plantentuin Meise	https://www.grid.ac/institutes/grid.425433.7	https://cetaf.org/botanic-garden-meise-0	3800000	no 	yes
