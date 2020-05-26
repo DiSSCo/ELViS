@@ -1,84 +1,86 @@
-institutionCode	GRID	facilityName	facilityAcronym	instrumentOrServiceName	instrumentOrServiceDescription
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	Thermo cyclers (standard and gradient)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	StepOne Plus real-time PCR systems	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	ABI 3730XL  Analyzer (Sanger Sequencing)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	ABI 3130 Genetic Analyzer (Fragment Analysis)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	illumina MiSeq	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	illumina NextSeq	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	StepOne Plus real-time PCR systems	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	Oxford Nanopore Technologies MinION	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	Oxford Nanopore Technologies GridION	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	DNA size selection system (Blue Pippin)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	Covaris M220 Focussed Ultrasonicator	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	DNA quality assessment (incl. TapeStation, Nanodrop, Qubit, Spectrostar)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	Gel imaging systems	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	DNA/RNA isolation and purification	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit	MBU	Specimen Preparation Laboratory	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Imaging and Analysis Centre		Chemical analysis (ICP, Ion chromatography, CHN elemental analysis)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Imaging and Analysis Centre		Micro-analysis (Electron probe micro-analysis | Laser ablation inductively coupled plasma mass spectrometry | SEM with X-ray micro-analysis)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Imaging and Analysis Centre		Imaging and tomography (Mico-CT  confocal microscopy | High-res SEM | Variable pressure SEM | TEM	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	X-ray diffraction laboratories		Powder Diffraction System (Nonius PDS120) 	Powder Diffraction System with PSD detector
-NHM	https://www.grid.ac/institutes/grid.35937.3b	X-ray diffraction laboratories		Rigaku D/Max-Rapid II 	Powder and Single Crystal Diffractometer with two-dimensional IP detector
-NHM	https://www.grid.ac/institutes/grid.35937.3b	X-ray diffraction laboratories		Micro Powder Diffraction System (Nonius PDS120)	 with GeniX High Flux Source and temperature stage (50-1200C)
-NHM	https://www.grid.ac/institutes/grid.35937.3b	X-ray diffraction laboratories		High Resolution Scanning Diffractometer (Panalytical X'Pert Pro MPD - Alpha 1)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	X-ray diffraction laboratories		Xcalibur Single Crystal Diffractometer (Agilent) 	with Cryojet temperature stage (90-490K)
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Zoology Radiography Suite		Philips MCN161 tube with a Tungsten target, tube voltage 160kV/10mA current	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	Zoology Radiography Suite		Machlett Solar Schall tube with a copper target, tube voltage 55kV/15mA current	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities		Zeiss ULTRA Plus	High Resolution Field Emission SEM (Zeiss ULTRA Plus) with EDX analysis (Oxford Instruments Inca with X-Max 80 detector)
-NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities		JSM IT500	Variable pressure SEM (JSM IT500) with EDX analysis  (Oxford Instruments Inca with X-Max 80 detector)
-NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities		Zeiss EVO 15LS	Variable pressure analytical SEM (Zeiss EVO 15LS) with EDX analysis  (Oxford Instruments Inca with X-Max 80 detector) and cathodoluminesence imaging (Gatan Chroma CL)
-NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities		JEOL JXA-8530F Electron Microprobe (5-spectrometer) with EDX analysis	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities		Cameca SX100 Electron Microprobe (5-spectrometer) with EDX analysis and CL imaging	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities		FEI Quanta 650 ESEM FEG	Variable Pressure, Field Emission SEM (FEI Quanta 650 ESEM FEG) with EDX analysis (Bruker Esprit with Flat Quad 5060F)
-NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities		Solution ICPMS (Agilent 7700x ICPMS)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities		Solution ICPAES (Thermo iCAP 6500 duo view ICP-AES)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities		Ion Chromatography (Dionex ICS-3000)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities		CHNS Analyser (Elementar Vario EL cube)	
-NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities		Confocal laser scanning microscope (Nikon A1 Si fitted to an Eclipse upright microscope)	
-BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories		SEM (Scanning electron microscopy) - Hitachi SU-8010 FE-SEM 	
-BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories		Optical microscopy	
-BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories		Polymerase Chain Reaction - in total 8 x 96-well block thermocycler (SensoQuest and PeqLab)	
-BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories		Illumina MiSeq	
-BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories		Flow cytometry - Attune	
-BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories		Advance Analytical (Agilent) Fragment Analyzer	
-BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories		NanoDrop 1000	
-BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories		LEICA EM CPD 300 critical point drier	
-HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy		Fully equipped Nikon Eclipse E600 light microscopes	
-HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy		3101 Nikon	
-HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy		Hitachi S-2600N (SCANNING ELECTRON MICROSCOPE)	
-HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy		Nanodrop spectrophotometer	
-HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy		GeneAmp thermal cycler	
-HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy		Techne PrimeG thermal cycler	
-HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy		Gel running and documentation system	
-HNHM	https://www.grid.ac/institutes/grid.424755.5	OTHER ANALYTICAL EQUIPMENT		Facial reconstruction software	
-UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	MOLECULAR LABS		HiSeq4000	
-UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	MOLECULAR LABS		HiSeq2500 V	
-UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	MOLECULAR LABS		MiSeq V2 and V3	
-UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Mass spectrometry labs		Thermo-Fischer Neptune Plus multicollector inductively coupled plasma mass spectrometres (MC-ICP-MS).	
-UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Mass spectrometry labs		Thermo-Fisher Triton Thermal Ionization Mass Spectrometery	
-UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Advanced Light Microscopy		Leica DM RXA	Leica DM RXA light and fluorescence microscope with DIC optics, digital image storage, digital and analog video recording with time lapse, drawing apparatus, and ImagePro+ and Leica QWIN image analysis software
-UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Advanced Light Microscopy		OLYMPUS C3030	OLYMPUS C3030 light and fluorescence microscope, with digital camera, image analysis software and video timelapse
-UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Advanced Light Microscopy		Olympus IX70	Olympus IX70 inverted microscope with DIC optics, Hoffman optics, cooling table , digital image storage, digital and analog video time recording with time lapse and ImagePro+ and Leica QWIN image analysis software
-UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Advanced Light Microscopy		Leica MZ-95 dissection microscope	Leica MZ-95 dissection microscope, digital image storage, digital and analog video recording and and ImagePro+ and Leica QWIN image analysis
-SMNS	https://www.grid.ac/institutes/grid.437830.b	Optical instruments		SEM Zeiss Evo LS 15	
-SMNS	https://www.grid.ac/institutes/grid.437830.b	Optical instruments		Bruker Skyscan 1272 Micro-CT	
-NRM	https://www.grid.ac/institutes/grid.425591.e	NORDSIM ion microprobe laboratory (Dep. of Geosciences)		CAMECA IMS1280	High mass resolution CAMECA IMS1280 ion microprobe with Hyperion2 source
-NRM	https://www.grid.ac/institutes/grid.425591.e	Vegacenter (Dep. of Geosciences)		High resolution inductively coupled plasma mass spectrometer cups	
-NRM	https://www.grid.ac/institutes/grid.425591.e	Vegacenter (Dep. of Geosciences)		High resolution inductively coupled plasma mass spectrometer	
-MNHN	https://www.grid.ac/institutes/grid.410350.3	Electron Microscopy and Analytical Laboratories		SEM microscope	
-MNHN	https://www.grid.ac/institutes/grid.410350.3	Electron Microscopy and Analytical Laboratories		Low Vacuum Microscope	
-MNHN	https://www.grid.ac/institutes/grid.410350.3	Electron Microscopy and Analytical Laboratories		MicroCT AST-RX	
-MNHN	https://www.grid.ac/institutes/grid.410350.3	Mass Spectrometry and Nuclear Magnetic Resonance Laboratory		Mass Spectrometry	
-MNHN	https://www.grid.ac/institutes/grid.410350.3	Mass Spectrometry and Nuclear Magnetic Resonance Laboratory		NMR	
-MNHN	https://www.grid.ac/institutes/grid.410350.3	Morphometry Laboratory		Access to the Morphometric Laboratory	
-MNHN	https://www.grid.ac/institutes/grid.410350.3	Geology Analytical Equipment		Multicanal Diffractometer	
-MNHN	https://www.grid.ac/institutes/grid.410350.3	Geology Analytical Equipment		Electronic microprobe	
-MNHN	https://www.grid.ac/institutes/grid.410350.3	Geology Analytical Equipment		Raman microprobe	
-RBINS	https://www.grid.ac/institutes/grid.20478.39	Molecular Systematics Laboratory	MSL		"Equipped with 7 PCR thermocyclers, one ABI 3130 capillary sequencer, two laminar flow workbenches, two flatbed multiphor electrophoresis set-ups (e.g. for SSCP-analysis), several units for flatbed submarine agarose gel electrophoresis, digital cameras and photographic equipment for gel documentation (including UV-photography), four ultrafreezers (-80¡C), five portable liquid nitrogen dry shipping containers, etc. The unit also disposes of several PCs and Macintosh computers for data treatment. There is a specialized library and key-word driven, electronic, reprint collection with >55,000 titles, about 11,000 of which are available as PDF. Qubit Fluorometric DNA concentration measurement; Agilent Bioanalyzer for automated electrophoresis; Equipped for the generation of Restriction Site Associated DNA sequencing libraries (RADseq)."
-RBINS	https://www.grid.ac/institutes/grid.20478.39	The Transmission Electron Microscopy Preparation Facility	TEM-PREP		Equipped with a Leica Ultracut Ultramicrotome and a Leica EM-KMR-2 Knifemaker. The facility is equipped with a Leica EM CPC and a Leica EM AFS2 for cryofixation, cryopreparation and freeze substitution of samples for TEM.
-RBINS	https://www.grid.ac/institutes/grid.20478.39	Digitization platform		EOS DSR	1 motorized system for photography using 52 Mpx EOS DSR,  40mm, Macro 100 mm
-RBINS	https://www.grid.ac/institutes/grid.20478.39	Digitization platform		Merco/XRE 120 kv microscanner	Merco/XRE 120 kv microscanner for small size objects with a resolution of 0.4 µm (Q3 2016)
-NHMW	https://www.grid.ac/institutes/grid.425585.b	Facilities for Electron Microscopy		Jeol JSM 6610-LV  Scanning Electron Microscope 	
-NHMW	https://www.grid.ac/institutes/grid.425585.b	Facilities for Electron Microscopy		Jeol JXA 8530-F Electron Microprobe	
-NHMW	https://www.grid.ac/institutes/grid.425585.b	Department of Zoology 3		Nikon SMZ 25 stereo microscope+digital DS-Ri2 camera 	sensor 36x24mm, 16 Megapixel
-NHMW	https://www.grid.ac/institutes/grid.425585.b	Department of Zoology 3		Nikon Eclipse Ni-U microscope+digital DS-Ri2 camera	sensor 36x24mm, 16 Megapixel
+institutionCode	GRID	facilityName	instrumentOrServiceName	instrumentOrServiceDescription
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	Thermo cyclers (standard and gradient)	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	StepOne Plus real-time PCR systems	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	ABI 3730XL  Analyzer (Sanger Sequencing)	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	ABI 3130 Genetic Analyzer (Fragment Analysis)	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	illumina MiSeq	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	illumina NextSeq	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	StepOne Plus real-time PCR systems	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	Oxford Nanopore Technologies MinION	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	Oxford Nanopore Technologies GridION	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	DNA size selection system (Blue Pippin)	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	Covaris M220 Focussed Ultrasonicator	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	DNA quality assessment (incl. TapeStation, Nanodrop, Qubit, Spectrostar)	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	Gel imaging systems	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	DNA/RNA isolation and purification	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Molecular Biology Unit (MBU)	Specimen Preparation Laboratory	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Imaging and Analysis Centre	Chemical analysis (ICP, Ion chromatography, CHN elemental analysis)	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Imaging and Analysis Centre	Laser ablation inductively coupled plasma mass spectrometry	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Imaging and Analysis Centre	SEM with X-ray micro-analysis	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Imaging and Analysis Centre	Electron probe micro-analysis 	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Imaging and Analysis Centre	Imaging and tomography (Mico-CT  confocal microscopy | High-res SEM | Variable pressure SEM | TEM	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	X-ray diffraction laboratories	Powder Diffraction System (Nonius PDS120) 	Powder Diffraction System with PSD detector
+NHM	https://www.grid.ac/institutes/grid.35937.3b	X-ray diffraction laboratories	Rigaku D/Max-Rapid II 	Powder and Single Crystal Diffractometer with two-dimensional IP detector
+NHM	https://www.grid.ac/institutes/grid.35937.3b	X-ray diffraction laboratories	Micro Powder Diffraction System (Nonius PDS120)	 with GeniX High Flux Source and temperature stage (50-1200C)
+NHM	https://www.grid.ac/institutes/grid.35937.3b	X-ray diffraction laboratories	High Resolution Scanning Diffractometer (Panalytical X'Pert Pro MPD - Alpha 1)	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	X-ray diffraction laboratories	Xcalibur Single Crystal Diffractometer (Agilent) 	with Cryojet temperature stage (90-490K)
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Zoology Radiography Suite	Philips MCN161 tube with a Tungsten target, tube voltage 160kV/10mA current	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	Zoology Radiography Suite	Machlett Solar Schall tube with a copper target, tube voltage 55kV/15mA current	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities	Zeiss ULTRA Plus	High Resolution Field Emission SEM (Zeiss ULTRA Plus) with EDX analysis (Oxford Instruments Inca with X-Max 80 detector)
+NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities	JSM IT500	Variable pressure SEM (JSM IT500) with EDX analysis  (Oxford Instruments Inca with X-Max 80 detector)
+NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities	Zeiss EVO 15LS	Variable pressure analytical SEM (Zeiss EVO 15LS) with EDX analysis  (Oxford Instruments Inca with X-Max 80 detector) and cathodoluminesence imaging (Gatan Chroma CL)
+NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities	JEOL JXA-8530F Electron Microprobe (5-spectrometer) with EDX analysis	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities	Cameca SX100 Electron Microprobe (5-spectrometer) with EDX analysis and CL imaging	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities	FEI Quanta 650 ESEM FEG	Variable Pressure, Field Emission SEM (FEI Quanta 650 ESEM FEG) with EDX analysis (Bruker Esprit with Flat Quad 5060F)
+NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities	Solution ICPMS (Agilent 7700x ICPMS)	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities	Solution ICPAES (Thermo iCAP 6500 duo view ICP-AES)	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities	Ion Chromatography (Dionex ICS-3000)	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities	CHNS Analyser (Elementar Vario EL cube)	
+NHM	https://www.grid.ac/institutes/grid.35937.3b	NHM Analytical Facilities	Confocal laser scanning microscope (Nikon A1 Si fitted to an Eclipse upright microscope)	
+BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories	SEM (Scanning electron microscopy) - Hitachi SU-8010 FE-SEM 	
+BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories	Optical microscopy	
+BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories	Polymerase Chain Reaction - in total 8 x 96-well block thermocycler (SensoQuest and PeqLab)	
+BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories	Illumina MiSeq	
+BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories	Flow cytometry - Attune	
+BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories	Advance Analytical (Agilent) Fragment Analyzer	
+BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories	NanoDrop 1000	
+BGBM	https://www.grid.ac/institutes/grid.507655.4	BGBM Laboratories	LEICA EM CPD 300 critical point drier	
+HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy	Fully equipped Nikon Eclipse E600 light microscopes	
+HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy	3101 Nikon	
+HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy	Hitachi S-2600N (SCANNING ELECTRON MICROSCOPE)	
+HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy	Nanodrop spectrophotometer	
+HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy	GeneAmp thermal cycler	
+HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy	Techne PrimeG thermal cycler	
+HNHM	https://www.grid.ac/institutes/grid.424755.5	Molecular Analysis and Microscopy	Gel running and documentation system	
+HNHM	https://www.grid.ac/institutes/grid.424755.5	OTHER ANALYTICAL EQUIPMENT	Facial reconstruction software	
+UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	MOLECULAR LABS	HiSeq4000	
+UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	MOLECULAR LABS	HiSeq2500 V	
+UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	MOLECULAR LABS	MiSeq V2 and V3	
+UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Mass spectrometry labs	Thermo-Fischer Neptune Plus multicollector inductively coupled plasma mass spectrometres (MC-ICP-MS).	
+UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Mass spectrometry labs	Thermo-Fisher Triton Thermal Ionization Mass Spectrometery	
+UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Advanced Light Microscopy	Leica DM RXA	Leica DM RXA light and fluorescence microscope with DIC optics, digital image storage, digital and analog video recording with time lapse, drawing apparatus, and ImagePro+ and Leica QWIN image analysis software
+UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Advanced Light Microscopy	OLYMPUS C3030	OLYMPUS C3030 light and fluorescence microscope, with digital camera, image analysis software and video timelapse
+UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Advanced Light Microscopy	Olympus IX70	Olympus IX70 inverted microscope with DIC optics, Hoffman optics, cooling table , digital image storage, digital and analog video time recording with time lapse and ImagePro+ and Leica QWIN image analysis software
+UCPH/SNM	https://www.grid.ac/institutes/grid.507616.3	Advanced Light Microscopy	Leica MZ-95 dissection microscope	Leica MZ-95 dissection microscope, digital image storage, digital and analog video recording and and ImagePro+ and Leica QWIN image analysis
+SMNS	https://www.grid.ac/institutes/grid.437830.b	Optical instruments	SEM Zeiss Evo LS 15	
+SMNS	https://www.grid.ac/institutes/grid.437830.b	Optical instruments	Bruker Skyscan 1272 Micro-CT	
+NRM	https://www.grid.ac/institutes/grid.425591.e	NORDSIM ion microprobe laboratory (Dep. of Geosciences)	CAMECA IMS1280	High mass resolution CAMECA IMS1280 ion microprobe with Hyperion2 source
+NRM	https://www.grid.ac/institutes/grid.425591.e	Vegacenter (Dep. of Geosciences)	High resolution inductively coupled plasma mass spectrometer cups	
+NRM	https://www.grid.ac/institutes/grid.425591.e	Vegacenter (Dep. of Geosciences)	High resolution inductively coupled plasma mass spectrometer	
+MNHN	https://www.grid.ac/institutes/grid.410350.3	Electron Microscopy and Analytical Laboratories	SEM microscope	
+MNHN	https://www.grid.ac/institutes/grid.410350.3	Electron Microscopy and Analytical Laboratories	Low Vacuum Microscope	
+MNHN	https://www.grid.ac/institutes/grid.410350.3	Electron Microscopy and Analytical Laboratories	MicroCT AST-RX	
+MNHN	https://www.grid.ac/institutes/grid.410350.3	Mass Spectrometry and Nuclear Magnetic Resonance Laboratory	Mass Spectrometry	
+MNHN	https://www.grid.ac/institutes/grid.410350.3	Mass Spectrometry and Nuclear Magnetic Resonance Laboratory	NMR	
+MNHN	https://www.grid.ac/institutes/grid.410350.3	Morphometry Laboratory	Access to the Morphometric Laboratory	
+MNHN	https://www.grid.ac/institutes/grid.410350.3	Geology Analytical Equipment	Multicanal Diffractometer	
+MNHN	https://www.grid.ac/institutes/grid.410350.3	Geology Analytical Equipment	Electronic microprobe	
+MNHN	https://www.grid.ac/institutes/grid.410350.3	Geology Analytical Equipment	Raman microprobe	
+RBINS	https://www.grid.ac/institutes/grid.20478.39	Molecular Systematics Laboratory (MSL)		"Equipped with 7 PCR thermocyclers, one ABI 3130 capillary sequencer, two laminar flow workbenches, two flatbed multiphor electrophoresis set-ups (e.g. for SSCP-analysis), several units for flatbed submarine agarose gel electrophoresis, digital cameras and photographic equipment for gel documentation (including UV-photography), four ultrafreezers (-80¡C), five portable liquid nitrogen dry shipping containers, etc. The unit also disposes of several PCs and Macintosh computers for data treatment. There is a specialized library and key-word driven, electronic, reprint collection with >55,000 titles, about 11,000 of which are available as PDF. Qubit Fluorometric DNA concentration measurement; Agilent Bioanalyzer for automated electrophoresis; Equipped for the generation of Restriction Site Associated DNA sequencing libraries (RADseq)."
+RBINS	https://www.grid.ac/institutes/grid.20478.39	The Transmission Electron Microscopy Preparation Facility (TEM-PREP)		Equipped with a Leica Ultracut Ultramicrotome and a Leica EM-KMR-2 Knifemaker. The facility is equipped with a Leica EM CPC and a Leica EM AFS2 for cryofixation, cryopreparation and freeze substitution of samples for TEM.
+RBINS	https://www.grid.ac/institutes/grid.20478.39	Digitization platform	EOS DSR	1 motorized system for photography using 52 Mpx EOS DSR,  40mm, Macro 100 mm
+RBINS	https://www.grid.ac/institutes/grid.20478.39	Digitization platform	Merco/XRE 120 kv microscanner	Merco/XRE 120 kv microscanner for small size objects with a resolution of 0.4 µm (Q3 2016)
+NHMW	https://www.grid.ac/institutes/grid.425585.b	Facilities for Electron Microscopy	Jeol JSM 6610-LV  Scanning Electron Microscope 	
+NHMW	https://www.grid.ac/institutes/grid.425585.b	Facilities for Electron Microscopy	Jeol JXA 8530-F Electron Microprobe	
+NHMW	https://www.grid.ac/institutes/grid.425585.b	Department of Zoology 3	Nikon SMZ 25 stereo microscope+digital DS-Ri2 camera 	sensor 36x24mm, 16 Megapixel
+NHMW	https://www.grid.ac/institutes/grid.425585.b	Department of Zoology 3	Nikon Eclipse Ni-U microscope+digital DS-Ri2 camera	sensor 36x24mm, 16 Megapixel
