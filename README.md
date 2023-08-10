@@ -1,5 +1,7 @@
 ![ELViS LOGO](elvis-logo.png)
 
+[![DOI](https://zenodo.org/badge/227076941.svg)](https://zenodo.org/badge/latestdoi/227076941)
+
 *European Loans and Visits System* 
 
 ELViS is a service of [DiSSCo](https://dissco.eu) (Distributed System of Scientific Collections), a 
@@ -16,6 +18,7 @@ Access (VA / Digitisation on Demand) programmes.
 
 
 [Backend](https://github.com/DiSSCo/elvis-backend)
+
 [Frontend](https://github.com/DiSSCo/elvis-frontend)
 
 Version 1.0.0 provides the following functionalities: 
