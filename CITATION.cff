@@ -1,0 +1,55 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: European Loans and Visits System
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Wouter
+    family-names: Addink
+    email: wouter.addink@naturalis.nl
+    affiliation: 'Naturalis Biodiversity Center, NL'
+    orcid: 'https://orcid.org/0000-0002-3090-1761'
+  - given-names: Sharif
+    family-names: Islam
+    email: sharif.islam@naturalis.nl
+    affiliation: 'Naturalis Biodiversity Center, NL'
+    orcid: 'https://orcid.org/0000-0001-8050-0299'
+  - name: Distributed System of Scientific Collections
+    address: DiSSCo Coordination & Support Office
+    city: Leiden
+    country: NL
+    post-code: 2333 CR
+    website: 'https://www.dissco.eu/'
+    email: info@dissco.eu
+  - name: Picturae BV
+    address: J. Duikerweg 14
+    city: Heerhugowaard
+    country: NL
+    post-code: 1703 DH
+    website: 'https://picturae.com/nl/'
+identifiers:
+  - type: other
+    value: 'https://doi.org/10.5281/zenodo.8232436'
+    description: DOI in zenodo
+repository-code: 'https://github.com/DiSSCo/ELViS'
+url: 'https://elvis.dissco.eu/welcome'
+abstract: >-
+  ELViS will be a one-stop shop for researchers to provide
+  access to specimens (visits, loans, digitisation on
+  demand) in natural science collections in Europe. This
+  repository is part of DiSSCo (Distributed System of
+  Scientific Collections), a new world-class Research
+  Infrastructure (RI) for natural science collections.
+keywords:
+  - FAIR
+  - FAIR Digital Object
+  - Digital Object Architecture
+  - Natural Science Collections
+  - Biodiversity Data
+  - Digitization
+  - Data Mobilization
+  - Collections Loans and Visits
